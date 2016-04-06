@@ -1,5 +1,6 @@
 navbar {
-  background-color: #F68989;
+  background-color: blue;
+  height: 50px;
 }
 
 li {
@@ -25,5 +26,6 @@ p {
 }
 
 footer {
-  background-color: #F68989;
+  background-color: blue;
+  height: 30px;
 }
