@@ -1,6 +1,9 @@
 navbar {
-  display: inline;
   background: #F68989;
+}
+
+li {
+  display: inline;
   font: helvetica;
   text-align: center;
   text-transform: uppercase;
