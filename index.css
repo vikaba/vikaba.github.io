@@ -1,5 +1,5 @@
 navbar {
-  background: #F68989;
+  background-color: #F68989;
 }
 
 li {
@@ -8,6 +8,7 @@ li {
   text-align: center;
   text-transform: uppercase;
   text-size: 50px;
+  padding: 14px;
 }
 
 h1 {
@@ -24,5 +25,5 @@ p {
 }
 
 footer {
-  background: #F68989;
+  background-color: #F68989;
 }
