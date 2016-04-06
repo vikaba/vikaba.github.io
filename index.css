@@ -9,7 +9,9 @@ li {
   text-align: center;
   text-transform: uppercase;
   text-size: 50px;
-  padding: 40px;
+  padding: 80px;
+  background-color: #F23498;
+  height: 50px;
 }
 
 h1 {
