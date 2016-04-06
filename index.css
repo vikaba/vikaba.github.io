@@ -26,4 +26,6 @@ p {
 footer {
   background-color: blue;
   height: 30px;
+  display: block;
+  position: bottom;
 }
