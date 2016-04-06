@@ -1,16 +1,11 @@
-navbar {
-  background-color: blue;
-  height: 50px;
-}
-
 li {
   display: inline;
   font: helvetica;
   text-align: center;
   text-transform: uppercase;
   text-size: 50px;
-  padding: 80px;
-  background-color: #F23498;
+  padding: 130px;
+  background-color: red;
   height: 50px;
 }
 
