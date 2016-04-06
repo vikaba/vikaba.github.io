@@ -1,1 +1,25 @@
+navbar {
+  display: inline;
+  background: #F68989;
+  font: helvetica;
+  text-align: center;
+  text-transform: uppercase;
+  text-size: 50px;
+}
 
+h1 {
+  font: helvetica;
+  text-align: center;
+  text-transform: uppercase;
+  text-size: 60px;
+}
+
+p {
+  font: helvetica;
+  text-align: center;
+  text-size: 40px;
+}
+
+footer {
+  background: #F68989;
+}
