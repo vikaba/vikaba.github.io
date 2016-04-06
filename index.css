@@ -4,7 +4,8 @@ li {
   text-align: center;
   text-transform: uppercase;
   text-size: 50px;
-  padding: 130px;
+  padding: 120px;
+  position: center;
   background-color: red;
   height: 50px;
 }
