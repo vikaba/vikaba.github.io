@@ -4,13 +4,13 @@ ul {
   text-transform: uppercase;
   position: center;
   background-color: gray;
-  height: 30px;
+  height: 60px;
 }
 
 li {
   font: helvetica;
-  padding: 50px;
-  font-size: 30px;
+  padding: 60px;
+  font-size: 19px;
 }
 
 h1 {
