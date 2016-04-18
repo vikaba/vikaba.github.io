@@ -1,5 +1,5 @@
 navbar {
-  padding-top: 20;
+  padding-top: 20px;
 }
 
 ul {
@@ -8,10 +8,9 @@ ul {
   text-align: center;
   text-transform: uppercase;
   text-size: 50px;
-  padding-top: 20px;
   padding: 30px;
   position: center;
-  background-color: red;
+  background-color: blue;
   height: 10px;
 }
 
