@@ -2,7 +2,7 @@ navbar {
   padding-top: 20;
 }
 
-li {
+ul {
   display: inline;
   font: helvetica;
   text-align: center;
