@@ -3,11 +3,14 @@ ul {
   font: helvetica;
   text-align: center;
   text-transform: uppercase;
-  text-size: 50px;
-  padding: 30px;
   position: center;
   background-color: gray;
   height: 30px;
+}
+
+li {
+  padding: 50px;
+  font-size: 30px;
 }
 
 h1 {
