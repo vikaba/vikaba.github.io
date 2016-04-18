@@ -1,6 +1,5 @@
 ul {
   display: inline;
-  font: helvetica;
   text-align: center;
   text-transform: uppercase;
   position: center;
@@ -9,6 +8,7 @@ ul {
 }
 
 li {
+  font: helvetica;
   padding: 50px;
   font-size: 30px;
 }
