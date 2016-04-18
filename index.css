@@ -1,7 +1,3 @@
-navbar {
-  padding-top: 20px;
-}
-
 ul {
   display: inline;
   font: helvetica;
@@ -10,8 +6,8 @@ ul {
   text-size: 50px;
   padding: 30px;
   position: center;
-  background-color: blue;
-  height: 10px;
+  background-color: gray;
+  height: 30px;
 }
 
 h1 {
