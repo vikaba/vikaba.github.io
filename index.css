@@ -13,6 +13,10 @@ li {
   font-size: 19px;
 }
 
+jumbotron {
+  text-align: center;
+}
+
 h1 {
   font: helvetica;
   text-align: center;
