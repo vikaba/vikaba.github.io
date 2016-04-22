@@ -14,7 +14,7 @@ li {
 }
 
 ,jumbotron {
-  background-image: url('relay.jpg');
+  background-image: url("relay.jpg");
 }
 
 .container .jumbotron {
