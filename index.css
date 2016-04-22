@@ -7,7 +7,7 @@
   height: 60px;
 }
 
-.li {
+li {
   font: helvetica;
   padding: 60px;
   font-size: 19px;
@@ -31,7 +31,7 @@
   text-size: 40px;
 }
 
-.footer {
+footer {
   background-color: blue;
   height: 30px;
   display: block;
