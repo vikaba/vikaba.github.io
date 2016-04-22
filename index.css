@@ -17,6 +17,8 @@
 
 .jumbotron {
   background-image: url("relay.jpg");
+  height: 900px;
+  width: 1100px;
 }
 
 .container .jumbotron {
