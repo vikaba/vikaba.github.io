@@ -1,4 +1,4 @@
-ul {
+.navbar .ul {
   display: inline;
   text-align: center;
   text-transform: uppercase;
@@ -7,7 +7,7 @@ ul {
   height: 60px;
 }
 
-li {
+.li {
   font: helvetica;
   padding: 60px;
   font-size: 19px;
@@ -17,7 +17,7 @@ li {
   text-align: center;
 }
 
-h1 {
+.h1 {
   font: helvetica;
   text-align: center;
   text-transform: uppercase;
@@ -25,13 +25,13 @@ h1 {
   padding: 40px;
 }
 
-p {
+.p {
   font: helvetica;
   text-align: center;
   text-size: 40px;
 }
 
-footer {
+.footer {
   background-color: blue;
   height: 30px;
   display: block;
