@@ -6,12 +6,13 @@
 
 .nav-links {
   display: inline-block;
-  float: center;
+  float: none;
   padding: 30px;
   position: center;
 }
 
 .nav-links a {
+  text-align: center;
   font: helvetica;
   padding-right: 175px;
   padding-left: 45px;
