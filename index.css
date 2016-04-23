@@ -16,7 +16,11 @@
   position: center;
 }
 
-.intro h1 {
+.intro {
+  padding-top: 30px;
+}
+
+.intro-text h1 {
   font: helvetica;
   font-size: 20px;
   color: black;
