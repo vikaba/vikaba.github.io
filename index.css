@@ -9,14 +9,13 @@
   display: inline-block;
   float: none;
   padding: 30px;
-  text-align: center;
 }
 
 .nav-links a {
   font: helvetica;
   font-size: 30px;
   color: black;
-  position: center;
+  padding: 50px;
 }
 
 .intro {
