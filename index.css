@@ -8,11 +8,10 @@
   display: inline-block;
   float: none;
   padding: 30px;
-  position: center;
+  text-align: center;
 }
 
 .nav-links a {
-  text-align: center;
   font: helvetica;
   font-size: 30px;
   color: black;
