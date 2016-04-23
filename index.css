@@ -16,6 +16,12 @@
   position: center;
 }
 
+.intro h1 {
+  font: helvetica;
+  font-size: 20px;
+  color: black;
+}
+
 footer {
   background-color: gray;
   height: 30px;
