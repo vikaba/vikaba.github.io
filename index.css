@@ -26,8 +26,9 @@
 
 .main-text p {
   font-family: courier;
-  font-size: 20px;
+  font-size: 15px;
   color: black;
+  text-align: center;
 }
 
 footer {
