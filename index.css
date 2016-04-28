@@ -13,7 +13,7 @@
 
 .nav-links a {
   font-family: courier;
-  font-size: 20px;
+  font-size: 15px;
   color: black;
   padding: 50px;
   padding-top: 40px;
@@ -23,7 +23,7 @@
   padding-top: 50px;
   margin-right: auto;
   margin-left: auto;
-  width: 800px;
+  width: 700px;
 }
 
 .main-text p {
