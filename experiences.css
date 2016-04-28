@@ -1,0 +1,19 @@
+.navbar {
+  background-color: white;
+  border-color: transparent;
+  height: 100px;
+  text-align: center;
+}
+
+.nav-links {
+  display: inline-block;
+  float: none;
+  padding-top: 50px;
+}
+
+.nav-links a {
+  font-family: courier;
+  font-size: 15px;
+  color: black;
+  padding: 60px;
+}
