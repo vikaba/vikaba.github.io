@@ -17,3 +17,9 @@
   color: black;
   padding: 60px;
 }
+
+.contact-links a {
+  font-family: courier;
+  color: black;
+  font-size: 15px;
+}
