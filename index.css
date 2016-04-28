@@ -20,7 +20,8 @@
 
 .main-img{
   padding-top: 50px;
-  position: center;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .main-text p {
