@@ -8,6 +8,7 @@
 .nav-links {
   display: inline-block;
   float: none;
+  padding-top: 30px;
 }
 
 .nav-links a {
@@ -22,7 +23,7 @@
   padding-top: 50px;
   margin-right: auto;
   margin-left: auto;
-  width: 800px;
+  width: 600px;
 }
 
 .main-text p {
@@ -30,6 +31,9 @@
   font-size: 15px;
   color: black;
   text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  width: 600px;
 }
 
 footer {
