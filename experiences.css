@@ -26,11 +26,11 @@
   font-family: courier;
   font-size: 12px;
   color: black;
-  padding-left: 40px;
+  padding: 0px;
 }
 
 .experience img {
   height: 300px;
   width: 450px;
-  padding-right: 40px;
+  padding: 0px;
 }
