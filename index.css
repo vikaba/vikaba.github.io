@@ -13,9 +13,10 @@
 
 .nav-links a {
   font-family: 'Karla', sans-serif;
-  font-size: 15px;
-  color: black;
+  font-size: 22px;
+  color: white;
   padding: 60px;
+  text-transform: uppercase;
 }
 
 .main-img{
