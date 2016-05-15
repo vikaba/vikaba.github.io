@@ -19,7 +19,7 @@
   text-transform: uppercase;
 }
 
-.jumbotron{
+.jumbotron {
   padding-top: 40px;
   margin-right: auto;
   margin-left: auto;
@@ -27,7 +27,7 @@
   background-image: url("russia.jpg");
 }
 
-.main-text p {
+.jumbotron p {
   font-family: Karla', sans-serif;
   font-size: 15px;
   color: black;
