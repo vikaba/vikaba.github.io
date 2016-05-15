@@ -19,8 +19,8 @@
 }
 
 .experiences {
-  width: 800px;
-  margin: 80 auto 0 auto;
+  margin: 0 auto;
+  padding-top: 100px;
 }
 
 .experiences img {
