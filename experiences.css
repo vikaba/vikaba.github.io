@@ -22,17 +22,17 @@
   width: 800px;
   margin-right: auto;
   margin-left: auto;
-  padding-top: 30px;
+  padding-top: 50px;
 }
 
 .experiences img {
-  width: 200px;
-  height: 300px;
+  width: 600px;
+  height: 400px;
 }
 
 .experiences p {
   font-family: 'Karla', sans-serif;
-  font-size: 12px;
+  font-size: 22x;
   color: black;
 }
 
