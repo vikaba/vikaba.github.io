@@ -19,8 +19,9 @@
 }
 
 .experiences {
+  display: inline-block;
+  float: none;
   padding-top: 100px;
-  padding-right: 30px;
 }
 
 .experiences img {
