@@ -18,21 +18,21 @@
   text-transform: uppercase;
 }
 
-.container {
+.experiences {
   padding-top: 100px;
 }
 
-.container img {
+.experiences img {
   width: 500px;
   height: 300px;
 }
 
-.container p {
+.experiences p {
   font-family: 'Karla', sans-serif;
   font-size: 26x;
   color: black;
 }
 
-.container second {
+.experiences second {
   padding-top: 40px;
 }
