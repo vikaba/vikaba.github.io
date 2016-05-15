@@ -3,6 +3,8 @@
   border-color: transparent;
   height: 70px;
   text-align: center;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
 }
 
 .nav-links {
