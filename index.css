@@ -1,9 +1,7 @@
 .navbar {
   background-color: white;
-  border-color: transparent;
   height: 70px;
   text-align: center;
-  border-bottom-style: solid;
   border-bottom-width: 0.25px;
   border-bottom-color: black;
 }
