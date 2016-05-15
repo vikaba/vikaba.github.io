@@ -19,12 +19,11 @@
   text-transform: uppercase;
 }
 
-.main-img{
+.jumbotron{
   padding-top: 40px;
   margin-right: auto;
   margin-left: auto;
-  width: auto;
-  height: auto;
+  background-image: url("russia.jpg");
 }
 
 .main-text p {
