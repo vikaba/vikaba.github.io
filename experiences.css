@@ -19,8 +19,9 @@
 }
 
 .experiences {
-  display: inline-block;
-  float: center;
+  float: none;
+  margin-right: auto;
+  margin-left: auto;
   padding-top: 100px;
 }
 
