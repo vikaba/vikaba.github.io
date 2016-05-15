@@ -17,10 +17,6 @@
   padding: 40px;
   text-transform: uppercase;
 
-.experience {
-  padding-top: 100px;
-}
-
 .experience p {
   font-family: 'Karla', sans-serif;
   font-size: 12px;
@@ -29,8 +25,8 @@
 }
 
 .experience img {
-  height: 200px;
-  width: 250px;
+  height: 40px;
+  width: 50px;
   padding: 0px;
 }
 
