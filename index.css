@@ -4,7 +4,7 @@
   height: 70px;
   text-align: center;
   border-bottom-style: solid;
-  border-bottom-width: 1px;
+  border-bottom-width: 0.5px;
   border-bottom-color: black;
 }
 
@@ -32,11 +32,11 @@
 .jumbotron p {
   font-family: Karla', sans-serif;
   font-size: 19px;
-  font-weight: bold;
+  font-weight: 20px;
   color: white;
   text-align: center;
   margin-right: auto;
   margin-left: auto;
-  width: 700px;
+  width: 800px;
   padding-top: 550px;
 }
