@@ -16,23 +16,5 @@
   color: #000292;
   padding: 40px;
   text-transform: uppercase;
-
-.experience a {
-  font-family: 'Karla', sans-serif;
-  font-size: 12px;
-  color: black;
-  padding: 0px;
 }
 
-.experience img {
-  height: 40px;
-  width: 50px;
-  padding: 0px;
-}
-
-.second {
-  padding-top: 20px;
-}
-.third {
-  padding-top: 20px;
-}
