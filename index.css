@@ -20,11 +20,8 @@
 }
 
 .jumbotron {
-  padding-top: 40px;
-  margin-right: auto;
-  margin-left: auto;
-  height: 900px;
   background-image: url("russia.jpg");
+  background-size: cover;
 }
 
 .jumbotron p {
@@ -35,5 +32,4 @@
   margin-right: auto;
   margin-left: auto;
   width: 700px;
-  padding-top: 40px;
 }
