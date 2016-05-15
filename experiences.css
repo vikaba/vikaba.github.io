@@ -1,29 +1,28 @@
 .navbar {
   background-color: white;
-  border-color: transparent;
-  height: 100px;
+  height: 70px;
   text-align: center;
 }
 
 .nav-links {
   display: inline-block;
   float: none;
-  padding-top: 50px;
+  padding-top: 20px;
 }
 
 .nav-links a {
-  font-family: courier;
-  font-size: 15px;
-  color: black;
-  padding: 60px;
-}
+  font-family: 'Karla', sans-serif;
+  font-size: 22px;
+  color: #000292;
+  padding: 40px;
+  text-transform: uppercase;
 
 .experience {
   padding-top: 100px;
 }
 
 .experience p {
-  font-family: courier;
+  font-family: 'Karla', sans-serif;
   font-size: 12px;
   color: black;
   padding: 0px;
