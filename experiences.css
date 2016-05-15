@@ -20,7 +20,7 @@
 
 .experiences {
   display: inline-block;
-  float: none;
+  float: center;
   padding-top: 100px;
 }
 
