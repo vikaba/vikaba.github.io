@@ -23,7 +23,8 @@
   padding-top: 40px;
   margin-right: auto;
   margin-left: auto;
-  width: 700px;
+  width: auto;
+  height: auto;
 }
 
 .main-text p {
