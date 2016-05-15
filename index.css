@@ -1,5 +1,5 @@
 .navbar {
-  background-color: #51a8ff;
+  background-color: white;
   border-color: transparent;
   height: 70px;
   text-align: center;
@@ -14,7 +14,7 @@
 .nav-links a {
   font-family: 'Karla', sans-serif;
   font-size: 22px;
-  color: white;
+  color: #d4195b;
   padding: 60px;
   text-transform: uppercase;
 }
