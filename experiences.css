@@ -20,9 +20,11 @@
 
 .experiences {
   padding-top: 130px;
+  padding-right: 30px;
+  padding-left:30px;
 }
 
 .experiences img {
-  height: 30px;
-  width: 30px;
+  height: 100px;
+  width: 60px;
 }
