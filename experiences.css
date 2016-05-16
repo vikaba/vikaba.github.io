@@ -17,3 +17,12 @@
   padding: 40px;
   text-transform: uppercase;
 }
+
+.experiences {
+  padding-top: 30px;
+}
+
+.experiences img {
+  height: 30px;
+  width: 30px;
+}
