@@ -27,3 +27,8 @@
   height: 350px;
   width: 500px;
 }
+
+.experiences h1 {
+  position: absolute;
+  top: 50px;
+}
