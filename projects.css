@@ -18,28 +18,7 @@
   text-transform: uppercase;
 }
 
-.jumbotron-russia {
-  background-image: url("winter.jpg");
-  background-size: cover;
-  height: 725px;
+.row img {
+  height: 300px;
+  width: 500px;
 }
-
-.jumbotron h1 {
-  font-family: 'Karla', sans-serif;
-  font-size: 80px;
-  font-weight: 20px;
-  color: white;
-  padding-top: 250px;
-  text-align: center;
-}
-
-.jumbtron-mission {
-  background-image: url("mission.jpg");
-  background-size: cover;
-  height: 725px;
-}
-
-.jumbtron-lithuania {
-  background-image: url("lithuania.jpg");
-  background-size: cover;
-  height: 725px;
