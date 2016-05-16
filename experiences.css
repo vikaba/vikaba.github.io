@@ -17,22 +17,3 @@
   padding: 40px;
   text-transform: uppercase;
 }
-
-.experiences {
-  padding-top: 100px;
-}
-
-.experiences img {
-  width: 500px;
-  height: 300px;
-}
-
-.experiences p {
-  font-family: 'Karla', sans-serif;
-  font-size: 26x;
-  color: black;
-}
-
-.experiences second {
-  padding-top: 40px;
-}
