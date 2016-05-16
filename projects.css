@@ -32,3 +32,9 @@
   padding-top: 250px;
   text-align: center;
 }
+
+.jumbtron-mission {
+  background-image: url("mission.jpg");
+  background-size: cover;
+  height: 725px;
+}
