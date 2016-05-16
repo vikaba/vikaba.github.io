@@ -20,7 +20,7 @@
 
 .experiences {
   padding-top: 130px;
-  padding-left: 70px;
+  padding-left: 90px;
 }
 
 .experiences img {
@@ -35,4 +35,5 @@
   color: white;
   font-size: 40px;
   font-family: 'Karla', sans-serif;
+  text-align: center;
 }
