@@ -18,7 +18,7 @@
   text-transform: uppercase;
 }
 
-.jumbotron {
+.jumbotron-russia {
   background-image: url("winter.jpg");
   background-size: cover;
   height: 725px;
@@ -38,3 +38,8 @@
   background-size: cover;
   height: 725px;
 }
+
+.jumbtron-lithuania {
+  background-image: url("lithuania.jpg");
+  background-size: cover;
+  height: 725px;
