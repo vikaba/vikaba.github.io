@@ -21,6 +21,7 @@
 .experiences {
   padding-top: 130px;
   padding-left: 90px;
+  text-align: center;
 }
 
 .experiences img {
@@ -33,5 +34,4 @@
   color: white;
   font-size: 40px;
   font-family: 'Karla', sans-serif;
-  text-align: center;
 }
