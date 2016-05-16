@@ -18,6 +18,10 @@
   text-transform: uppercase;
 }
 
+.row {
+  padding-top: 30px;
+}
+
 .row img {
   height: 300px;
   width: 500px;
