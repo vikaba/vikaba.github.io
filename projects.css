@@ -26,6 +26,8 @@
 
 .jumbotron h1 {
   font-family: 'Karla', sans-serif;
-  font-size: 40px;
+  font-size: 60px;
   color: white;
+  padding-top: 350px;
+  text-align: center;
 }
