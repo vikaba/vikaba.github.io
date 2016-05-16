@@ -16,3 +16,16 @@
   color: #000292;
   padding: 40px;
   text-transform: uppercase;
+}
+
+.jumbotron {
+  background-image: url("winter.jpg");
+  background-size: cover;
+  height: 725px;
+}
+
+.jumbotron h1 {
+  font-family: 'Karla', sans-serif;
+  font-size: 40px;
+  color: white;
+}
