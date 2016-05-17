@@ -30,14 +30,12 @@
 }
 
 .who {
-  display: inline-block;
-  float: none;
+ text-align: center;
 }
 
 .who h1 {
   font-family: 'Karla', sans-serif;
   font-size: 30px;
-  text-align: center;
   color: black;
   text-transform: uppercase;
 }
