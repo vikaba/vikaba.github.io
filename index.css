@@ -25,6 +25,10 @@
   height: 725px;
 }
 
+.about {
+  text-align: center;
+}
+
 .who {
   display: inline-block;
   float: none;
