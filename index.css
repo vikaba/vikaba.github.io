@@ -37,9 +37,7 @@
 
 .who {
  text-align: center;
-
 }
-
 
 .who h1 {
   font-family: 'Karla', sans-serif;
@@ -52,3 +50,34 @@
   height: 300px;
   max-width: 100%;
 }
+
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left:0;
+  top:0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: white;
+  text-align: center;
+}
+
+.modal p {
+  width: 80%;
+  padding: 20px;
+}
+
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 25px;
+}
+
+.close: hover,
+.close: focus {
+  color: black;
+  cursor: pointer;
+}
+
