@@ -24,3 +24,24 @@
   background-position: 0px 0px;
   height: 725px;
 }
+
+.about {
+  text-align: center;
+}
+
+.col-lg-4 {
+  height: 400px;
+}
+
+#research {
+  background-image: url("research.jpg");
+}
+
+#spark {
+  background-image: url("spark.jpg");
+}
+
+#relay {
+  background-image: url("relay.jpg");
+}
+
