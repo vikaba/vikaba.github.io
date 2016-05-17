@@ -29,12 +29,15 @@
   text-align: center;
 }
 
-.col-lg-4 {
+.row {
   height: 400px;
-  width:auto;
+  padding-right: auto;
+  padding-left: auto;
+  position: relative;
 }
 
-.row h1 {
+
+.who h1 {
   font-family: 'Karla', sans-serif;
   font-size: 30px;
   text-align: center;
