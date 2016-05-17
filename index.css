@@ -37,6 +37,10 @@
   background-size: cover;
 }
 
+.row {
+  height: 300px;
+}
+
 .who h1 {
   font-family: 'Karla', sans-serif;
   font-size: 30px;
