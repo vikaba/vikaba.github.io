@@ -25,6 +25,10 @@
   height: 725px;
 }
 
+.who {
+  display: inline-block;
+  float: none;
+}
 
 .who h1 {
   font-family: 'Karla', sans-serif;
