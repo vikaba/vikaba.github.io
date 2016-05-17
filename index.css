@@ -67,6 +67,9 @@
 .modal p {
   width: 80%;
   padding: 20px;
+  font-family: 'Karla', sans-serif;
+  font-size: 20px;
+  color: black;
 }
 
 .close {
