@@ -21,7 +21,7 @@
 .jumbotron {
   background-image: url("russia.jpg");
   background-size: cover;
-  background-position: 0px 0px;
+  background-position: 0px -30px;
   height: 725px;
 }
 
