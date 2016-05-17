@@ -32,7 +32,7 @@
 
 .who {
  text-align: center;
- padding-left: -30pxx;
+ padding-left: -30px;
  padding-right: -30px;
 }
 
@@ -42,6 +42,7 @@
   font-size: 30px;
   color: black;
   text-transform: uppercase;
+  padding-bottom: 80px;
 }
 
 .who img {
