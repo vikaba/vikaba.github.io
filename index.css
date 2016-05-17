@@ -25,12 +25,20 @@
   height: 725px;
 }
 
-.about {
+.about h1{
   text-align: center;
 }
 
 .col-lg-4 {
   height: 400px;
+}
+
+.row h1 {
+  font-family: 'Karla', sans-serif;
+  font-size: 30px;
+  text-align: center;
+  color: white;
+  text-transform: uppercase;
 }
 
 #research {
