@@ -33,7 +33,8 @@
   height: 400px;
   padding-right: auto;
   padding-left: auto;
-  position: relative;
+  position: inline;
+  padding-top: 10px;
 }
 
 
