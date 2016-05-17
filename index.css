@@ -34,14 +34,6 @@
  text-align: center;
 }
 
-.col-lg-4{
-  background-size: cover;
-  height: auto;
-}
-
-.row {
-  height: 300px;
-}
 
 .who h1 {
   font-family: 'Karla', sans-serif;
@@ -50,14 +42,7 @@
   text-transform: uppercase;
 }
 
-#research {
-  background-image: url("surgery2.jpg");
-}
-
-#spark {
-  background-image: url("spark.jpg");
-}
-
-#relay {
-  background-image: url("relay.jpg");
+.who img {
+  height: 300px;
+  width: auto;
 }
