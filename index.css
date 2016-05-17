@@ -33,9 +33,25 @@
  text-align: center;
 }
 
+.row{
+  height: 400px;
+}
+
 .who h1 {
   font-family: 'Karla', sans-serif;
-  font-size: 25px;
+  font-size: 30px;
   color: black;
   text-transform: uppercase;
+}
+
+#research {
+  background-image: url("research.jpg");
+}
+
+#spark {
+  background-image: url("spark.jpg");
+}
+
+#relay {
+  background-image: url("relay.jpg");
 }
