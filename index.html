@@ -127,7 +127,7 @@
   </div>
   
   <div class = "modal" id = "relay-modal">
-    <span class = "close">x</span>
+    <span class = "close">&times;</span>
     <p>Raised over $400 and recruited participants and survivors for cancer research in an all-night walk-a-thon</p>
   </div>
   
@@ -141,12 +141,19 @@
     <span class = "close">x</span>
     <p>Videographer for Mission: Music/general travel photographer</p>
   </div>
+  
+  <script>
+    $(document).ready(function(){
+      $("#studentBtn").click(function(){
+        $("#studentModal").modal();
+      });
+    });
+  </script>
    
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
-    <script src ="script.js"></script>
     <!--dian is the inspiration for this codacious design and code-->
   </body>
 </html>
