@@ -62,19 +62,19 @@
     <div class = "container">
       <div class = "row">
         <div class = "col-md-4" id = "student">
-          <button id = "studentBtn">
+          <button id = "studentBtn" data-toggle="modal" data-target="#studentModal">
           <img src ="student.png">
           <h1>Student</h1>
           </button>
         </div>
         <div class = "col-md-4" id = "research">
-          <button id = "researchBtn">
+          <button id = "researchBtn" data-toggle="modal" data-target="#researchModal">
           <img src ="surgery2.jpg">
           <h1>Researcher</h1>
           </button>
         </div>
         <div class = "col-md-4" id = "spark">
-          <button id = "sparkBtn">
+          <button id = "sparkBtn" data-toggle="modal" data-target="#sparkModal">
           <img src = "spark.jpg">
           <h1>Teacher</h1>
           </button>
@@ -82,19 +82,19 @@
       </div>
       <div class = "row">
        <div class = "col-md-4" id = "relay">
-          <button id = "relayBtn">
+          <button id = "relayBtn" data-toggle="modal" data-target="relayModal">
           <img src = "relay.jpg">
           <h1>Volunteer</h1>
           </button>
         </div>
         <div class = "col-md-4" id = "compsci">
-          <button id = "compsciBtn">
+          <button id = "compsciBtn" data-toggle="modal" data-target="#compsciModal">
           <img src = "compsci.png">
           <h1>Hacker</h1>
           </button>
         </div>
         <div class = "col-md-4" id = "photography">
-          <button id = "photographyBtn">
+          <button id = "photographyBtn" data-toggle="modal" data-target="#photographyModal">
           <img src = "mission.jpg">
           <h1>Photographer & Videographer</h1>
           </button>
@@ -104,9 +104,17 @@
     </div>
   </div>
     
-  <div class = "modal" id = "student-modal">
-    <span class="close">x</span>
-    <p>I am currently a student at the Bergen County Academies in Hackensack, NJ.</p>
+  <div id = "studentModal" role="dialog">
+    <div class = "modal-dialog">
+      <div class = "modal-content">
+        <div class = "modal-header"
+        <button type = "button" class = "close" data-dismiss="modal">X</button>
+        </div>
+        <div class = "modal-body">
+          <p>I am currently a senior at the Bergen County Academies in Hackensack, NJ.</p>
+        </div>
+      </div>
+  </div>
   </div>
   
   <div class = "modal" id = "research-modal">
