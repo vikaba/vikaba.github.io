@@ -27,6 +27,7 @@
   background-color: gray;
   background-size: cover;
   height: 300px;
+  padding-top: 0px;
 }
 
 .jumbotron h1 {
@@ -52,6 +53,10 @@
   position: absolute;
   top:50px;
   text-align: center;
+}
+
+.who {
+  padding-top: 0px;
 }
 
 .who img {
