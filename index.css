@@ -51,6 +51,7 @@
   position: absolute;
   text-align: center;
   z-index: 1;
+  padding-bottom: 100px;
 }
 
 .who {
