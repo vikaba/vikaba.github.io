@@ -50,6 +50,7 @@
   text-transform: uppercase;
   position: absolute;
   text-align: center;
+  z-index: 1;
 }
 
 .who {
