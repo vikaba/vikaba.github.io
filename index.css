@@ -61,7 +61,7 @@
 }
 
 .who img {
-  height: 350px;
+  height: 300px;
   max-width: 100%;
   position: relative;
 }
@@ -85,4 +85,5 @@
   padding: 0px;
   padding-right: 0px;
   padding-left:0px;
+  max-width:100%;
 }
