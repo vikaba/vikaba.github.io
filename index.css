@@ -26,7 +26,7 @@
 }
 
 .jumbotron {
-  background-color: gray;
+  background-color: #E0FFFF;
   background-size: cover;
   height: 300px;
   margin-right: 75px;
@@ -39,7 +39,7 @@
   font-size: 70px;
   padding-right: 20px;
   padding-left: 20px;
-  padding-top: 30px;
+  padding-top: 10px;
   z-index: 1;
 }
 
