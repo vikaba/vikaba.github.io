@@ -44,12 +44,13 @@
   font-size: 30px;
   color: black;
   text-transform: uppercase;
-  z-index: 1;
+  position: absolute;
 }
 
 .who img {
   height: 300px;
   max-width: 100%;
+  position: relative;
 
 }
 
