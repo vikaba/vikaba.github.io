@@ -39,6 +39,10 @@
  text-align: center;
 }
 
+#row2 {
+  padding-top: 20px;
+}
+
 .who h1 {
   font-family: 'Karla', sans-serif;
   font-size: 30px;
