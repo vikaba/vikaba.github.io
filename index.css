@@ -58,7 +58,11 @@
   height: 300px;
   max-width: 100%;
   position: relative;
+}
 
+.container-fluid {
+  padding-right: 0px;
+  padding-left: 0px;
 }
 
 .modal p {
@@ -71,5 +75,6 @@
 
 .button {
   background-color: white;
-  border-color: white;
+  border: none;
+  padding: 0px;
 }
