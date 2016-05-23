@@ -24,19 +24,18 @@
 }
 
 .jumbotron {
-  background-image: url("russia.jpg");
+  background-color: gray;
   background-size: cover;
-  background-position: 0px -30px;
   height: 725px;
 }
 
-.about {
-  text-align: center;
-  height: 80px;
-}
-
-.about h1 {
-  padding-bottom: 30px;
+.jumbotron h1 {
+  color: white;
+  font-family: 'Karla', sans-serif;
+  font-size: 50px;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-top: 30px;
 }
 
 .row .no-gutter{
