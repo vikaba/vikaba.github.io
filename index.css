@@ -90,12 +90,11 @@
 }
 
 .button h1 {
+  position: absolute;
   font-family: 'Karla', sans-serif;
   font-size: 30px;
   color: white;
   text-transform: uppercase;
-  position: absolute;
-  padding-bottom:40px;
+  top: 50px;
   text-align: center;
-  padding-right: 30px;
 }
