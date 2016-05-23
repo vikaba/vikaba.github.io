@@ -42,9 +42,10 @@
 .who h1 {
   font-family: 'Karla', sans-serif;
   font-size: 30px;
-  color: black;
+  color: white;
   text-transform: uppercase;
   position: absolute;
+  top:50px;
 }
 
 .who img {
