@@ -18,9 +18,10 @@
   <![endif]-->
 
 
-  <!-- Bootstrap core CSS -->
+  <!-- Bootstrap core CSS & JS -->
   <link href="bootstrap.min.css" rel="stylesheet">
-    
+  <script src="js/bootstrap.min.js"></script>
+  
   <!--Custom CSS-->
   <link href="index.css" rel="stylesheet">
   
@@ -62,39 +63,31 @@
     <div class = "container">
       <div class = "row">
         <div class = "col-md-4" id = "student">
-          <button id = "studentBtn">
           <img src ="student.png">
           <h1>Student</h1>
           </button>
         </div>
         <div class = "col-md-4" id = "research">
-          <button type ="button" id = "researchBtn" data-toggle="modal" data-target="#researchModal">
           <img src ="surgery2.jpg">
           <h1>Researcher</h1>
-          </button>
         </div>
         <div class = "col-md-4" id = "spark">
-          <button type ="button" id = "sparkBtn" data-toggle="modal" data-target="#sparkModal">
           <img src = "spark.jpg">
           <h1>Teacher</h1>
-          </button>
         </div>
       </div>
       <div class = "row">
        <div class = "col-md-4" id = "relay">
-          <button type ="button" id = "relayBtn" data-toggle="modal" data-target="relayModal">
           <img src = "relay.jpg">
           <h1>Volunteer</h1>
           </button>
         </div>
         <div class = "col-md-4" id = "compsci">
-          <button type ="button" id = "compsciBtn" data-toggle="modal" data-target="#compsciModal">
           <img src = "compsci.png">
           <h1>Hacker</h1>
           </button>
         </div>
         <div class = "col-md-4" id = "photography">
-          <button type ="button" id = "photographyBtn" data-toggle="modal" data-target="#photographyModal">
           <img src = "mission.jpg">
           <h1>Photographer & Videographer</h1>
           </button>
@@ -104,7 +97,7 @@
     </div>
   </div>
   
-  <!--<div id = "studentModal">
+  <div id = "studentModal">
     <div class = "modal-dialog">
       <div class = "modal-content">
         <div class = "modal-header">
@@ -189,24 +182,10 @@
       </div>
     </div>
   </div>
-  -->
-  <script type = "text/javascript">
-    $(document).ready(function(){
-      $(".btn").click(function(){
-        $("#studentModal").modal('show');
-        $("#sparkModal").modal('show');
-        $("#relayModal").modal('show');
-        $("#photographyModal").modal('show');
-        $("#compsciModal").modal('show');
-        $("#researchModal").modal('show');
-      });
-    });
-  </script>
    
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js"></script>
     <!--dian is the inspiration for this codacious design and code-->
   </body>
 </html>
