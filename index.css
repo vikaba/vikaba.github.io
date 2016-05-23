@@ -87,6 +87,11 @@
   max-width:100%;
 }
 
+.skills-intro {
+  height: 60px;
+  padding-top: 30px;
+}
+
 .skills img {
   height: 45px;
   width: 45px;
