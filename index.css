@@ -35,10 +35,9 @@
   padding-bottom: 10px;
 }
 
-.who {
- text-align: center;
- padding-left: 0px;
- padding-right: 0px;
+.row .no-gutter {
+  padding-right: 0px;
+  padding-left: 0px;
 }
 
 #row2 {
