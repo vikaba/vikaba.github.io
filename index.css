@@ -46,7 +46,7 @@
   font-size: 30px;
   color: white;
   text-transform: uppercase;
-  position: absolute;
+  z-index: 1;
   top:50px;
   text-align: center;
   padding-right: 30px;
