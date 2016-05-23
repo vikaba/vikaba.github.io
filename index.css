@@ -69,10 +69,6 @@
   padding-left: 0px;
 }
 
-#row2 {
-  padding-top: -5px !important;
-}
-
 .modal p {
   width: 80%;
   padding: 20px;
@@ -88,16 +84,6 @@
   padding-right: 0px;
   padding-left:0px;
   max-width:100%;
-}
-
-.button h1 {
-  position: absolute;
-  font-family: 'Karla', sans-serif;
-  font-size: 30px;
-  color: white;
-  text-transform: uppercase;
-  top: 50px;
-  text-align: center;
 }
 
 #skillicons .img {
