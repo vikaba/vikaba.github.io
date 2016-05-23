@@ -43,13 +43,12 @@
   z-index: 1;
 }
 
-.button h1 {
+.who h1 {
   font-family: 'Karla', sans-serif;
   font-size: 30px;
   color: white;
   text-transform: uppercase;
   position: absolute;
-  z-index: 1;
 }
 
 .who {
