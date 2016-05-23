@@ -87,3 +87,14 @@
   padding-left:0px;
   max-width:100%;
 }
+.button h1 {
+  font-family: 'Karla', sans-serif;
+  font-size: 30px;
+  color: white;
+  text-transform: uppercase;
+  position: absolute;
+  padding-top:50px;
+  padding-right: 30px;
+  padding-left: 30px;
+  text-align: center;
+}
