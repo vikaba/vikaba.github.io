@@ -100,6 +100,7 @@
   font-family: 'Karla', sans-serif;
   font-size: 45px;
   color: black;
+  margin-left: 75px;
 }
 
 .skills img {
@@ -118,7 +119,7 @@
   position: inline;
   margin-right: 75px;
   margin-left: 75px;
-  padding-top: 20px;
+  top: 20px;
 }
 
 .contact img {
