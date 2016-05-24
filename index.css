@@ -57,7 +57,8 @@
 
 .who h1 {
   font-family: 'Karla', sans-serif;
-  font-size: 35px;
+  font-size: 30px;
+  font-weight: bold;
   color: white;
   text-transform: uppercase;
   position: absolute;
