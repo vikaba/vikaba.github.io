@@ -107,7 +107,7 @@
 .skills img {
   height: 70px;
   width: 70px;
-  top: 30px;
+  top: 40px;
 }
 
 .skills .row {
@@ -118,12 +118,16 @@
   height: 400px;
   background-color: #c8c8f9;
   position: inline;
-  margin-right: 75px;
-  margin-left: 75px;
   top: 20px;
 }
 
 .contact img {
   height: 65px;
   width: 65px;
+}
+
+.contact h1 {
+  color: white;
+  font-size: 50px;
+  font-family: 'Karla', sans-serif;
 }
