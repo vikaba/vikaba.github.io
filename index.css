@@ -116,6 +116,8 @@
   height: 400px;
   background-color: #c8c8f9;
   position: inline;
+  margin-right: 75px;
+  margin-left: 75px;
 }
 
 .contact img {
