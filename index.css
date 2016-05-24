@@ -90,8 +90,17 @@
   max-width:100%;
 }
 
-.skills-icons {
-  top: 30px;
+.skills {
+  height: 100px;
+  margin-right: 75px;
+  margin-left: 75px;
+  background-color: #c8c8f9;
+}
+
+.skills h1 {
+  font-family: 'Karla', sans-serif;
+  font-size: 45px;
+  color: white;
 }
 
 .skills-icons img {
