@@ -23,6 +23,7 @@
 .nav-links img {
   height: 30px;
   width: 30px;
+  padding-right: -30px;
 }
 
 .jumbotron {
