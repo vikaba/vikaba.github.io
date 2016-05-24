@@ -23,7 +23,6 @@
 .nav-links img {
   height: 30px;
   width: 30px;
-  padding: 30px;
 }
 
 .jumbotron {
@@ -118,8 +117,7 @@
 .contact {
   height: 400px;
   background-color: #c8c8f9;
-  margin-right: 75px;
-  margin-left: 75px;
+  position: inline;
 }
 
 .contact img {
