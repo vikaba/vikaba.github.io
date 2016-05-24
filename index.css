@@ -95,7 +95,7 @@
   margin-right: 75px;
   margin-left: 75px;
   background-color: #c8c8f9;
-  padding-top:30px;
+  position: relative;
 }
 
 .skills h1 {
