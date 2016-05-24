@@ -90,6 +90,10 @@
   max-width:100%;
 }
 
+.skills-icons {
+  top: 30px;
+}
+
 .skills-icons img {
   height: 55px;
   width: 55px;
