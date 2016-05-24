@@ -131,7 +131,7 @@
 }
 
 .skills .row {
-  padding-top: 15px;
+  padding-top: 20px;
 }
 
 .contact {
@@ -144,7 +144,10 @@
 .contact img {
   height: 65px;
   width: 65px;
-  top: 40px;
+}
+
+.contact .row {
+  padding-top: 20px;
 }
 
 .contact h1 {
