@@ -60,7 +60,9 @@
   color: white;
   text-transform: uppercase;
   position: absolute;
-  position: 30px;
+  text-align: center;
+  width: 300px;
+  height: 200px;
   z-index: 100;
 }
 
