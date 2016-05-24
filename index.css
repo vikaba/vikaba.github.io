@@ -85,7 +85,7 @@
   max-width:100%;
 }
 
-#icons img {
+.container .icons img {
   height: 55px;
   width: 55px;
 }
