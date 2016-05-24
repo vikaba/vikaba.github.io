@@ -43,15 +43,6 @@
   z-index: 100;
 }
 
-.who h1 {
-  font-family: 'Karla', sans-serif;
-  font-size: 30px;
-  color: white;
-  text-transform: uppercase;
-  position: absolute;
-  padding-bottom: 200px;
-}
-
 .who {
   padding-top: 0px;
   display:block;
@@ -61,6 +52,14 @@
   height: 275px;
   max-width: 100%;
   position: relative;
+}
+
+.who h1 {
+  font-family: 'Karla', sans-serif;
+  font-size: 30px;
+  color: white;
+  text-transform: uppercase;
+  padding-bottom: 200px;
 }
 
 .container-fluid {
