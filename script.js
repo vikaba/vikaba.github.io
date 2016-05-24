@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $('#student').click(function() {
-    $('#studentModal').fadeIn('slow');
+  $('.skills img').mouseenter(function() {
+    $('.tooltip top').fadeIn('fast');
   });
 });
