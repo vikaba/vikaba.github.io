@@ -138,7 +138,7 @@
   height: 250px;
   background-color: #c8c8f9;
   position: inline;
-  margin-top: 30px;
+  margin-top: 50px;
 }
 
 .contact img {
@@ -151,4 +151,5 @@
   color: white;
   font-size: 50px;
   font-family: 'Karla', sans-serif;
+  padding-top: 30px;
 }
