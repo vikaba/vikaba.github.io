@@ -86,8 +86,9 @@
 }
 
 .skills-intro {
-  height: 50px;
+  height: 100px;
   padding-top: 20px;
+  background-color: #c8c8f9;
 }
 
 .skills {
