@@ -127,7 +127,7 @@
 .skills img {
   height: 70px;
   width: 70px;
-  top: 40px;
+  top: 50px;
 }
 
 .skills .row {
@@ -144,6 +144,7 @@
 .contact img {
   height: 65px;
   width: 65px;
+  top: 40px;
 }
 
 .contact h1 {
