@@ -60,7 +60,7 @@
   color: white;
   text-transform: uppercase;
   position: absolute;
-  padding-bottom: 500px;
+  position: 30px;
   z-index: 100;
 }
 
