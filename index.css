@@ -68,6 +68,7 @@
   right: 100px;
   left: 100px;
   text-align: center;
+  width: 80%;
 }
 
 .container-fluid {
@@ -76,7 +77,6 @@
 }
 
 .modal h1 {
-  width: 80%;
   font-weight: bold;
   font-family: 'Karla', sans-serif;
   font-size: 23px;
