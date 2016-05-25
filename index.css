@@ -77,9 +77,9 @@
 
 .modal h1 {
   width: 80%;
-  padding: 20px;
+  font-weight: bold;
   font-family: 'Karla', sans-serif;
-  font-size: 20px;
+  font-size: 23px;
   color: black;
 }
 
