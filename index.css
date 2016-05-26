@@ -66,8 +66,8 @@
   bottom: 100px;
   top: 100px;
   text-align: center;
-  right: 100px;
-  left: 100px;
+  padding-right: 100px;
+  padding-left: 100px;
 }
 
 .container-fluid {
