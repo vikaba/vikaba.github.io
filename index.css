@@ -54,6 +54,7 @@
   height: 275px;
   max-width: 100%;
   position: relative;
+  display: inline-block;
 }
 
 .who h1 {
@@ -63,11 +64,7 @@
   color: white;
   text-transform: uppercase;
   position: absolute;
-  bottom: 100px;
-  top: 100px;
   text-align: center;
-  padding-right: 100px;
-  padding-left: 100px;
 }
 
 .container-fluid {
