@@ -65,6 +65,8 @@
   text-transform: uppercase;
   position: absolute;
   text-align: center;
+  top: 100px;
+  bottom: 100px;
 }
 
 .container-fluid {
