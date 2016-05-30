@@ -66,6 +66,8 @@
   text-transform: uppercase;
   position: absolute;
   display: table-cell;
+  top:100px;
+  bottom:100px;
   vertical-align: middle;
   text-align: center;
 }
