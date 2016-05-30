@@ -60,13 +60,14 @@
 .who h1 {
   font-family: 'Karla', sans-serif;
   font-size: 30px;
+  height:30px;
   font-weight: bold;
   color: white;
   text-transform: uppercase;
   position: absolute;
+  display: table-cell;
+  vertical-align: middle;
   text-align: center;
-  top: 100px;
-  bottom: 100px;
 }
 
 .container-fluid {
