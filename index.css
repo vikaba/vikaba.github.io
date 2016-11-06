@@ -42,7 +42,7 @@
 .who img {
   height: 275px;
   position: relative;
-  max-width: 100%;
+  max-width: cover;
   display: inline-block;
 }
 
