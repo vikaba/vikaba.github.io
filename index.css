@@ -44,11 +44,9 @@
   position: relative;
   width: 100%;
   display: inline-block;
+  padding-top: 20px;
 }
 
-.who .button {
-  max-width: 100%;
-}
 
 .who h1 {
   font-family: 'Karla', sans-serif;
