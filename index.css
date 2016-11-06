@@ -33,24 +33,6 @@
   padding-right: -30px;
 }
 
-.jumbotron {
-  background-color: #c8c8f9;
-  background-size: cover;
-  height: 300px;
-  margin-right: 75px;
-  margin-left: 75px;
-}
-
-.jumbotron h1 {
-  color: white;
-  font-family: 'Karla', sans-serif;
-  font-size: 70px;
-  padding-right: 20px;
-  padding-left: 20px;
-  padding-top: 10px;
-  z-index: 1;
-}
-
 .who {
   padding-top: 0px;
   display:block;
