@@ -56,56 +56,37 @@
     </div>
     </nav>
   </header>
-    
-  <!--MAIN JUMBOTRON-->
-    <div class = "jumbotron" id = "intro">
-      <div class = "container">
-        <h1>Hi, I'm Viktoriya</h1>
-        <h1>I am a ...</h1>
-      </div>
-    </div>
   
   <!--EXPERIENCE ROWS-->
   <div class = "who">
     <div class = "container">
       <div class = "row">
-        <div class = "col-xs-6 col-lg-4" id = "student">
+        <div class = "col-xs-6 col-md-6 col-lg-6" id = "education">
           <button type = "button" style = "border:none;background-color:white;padding:none;" data-toggle="modal" data-target="#studentModal">
           <img src ="envisci.jpg" class = "img-responsive">
-          <h1 class="img-header">Student</h1>
+          <h1 class="img-header">Education</h1>
           </button>
         </div>
-        <div class = "col-xs-6 col-lg-4" id = "research">
-          <button type = "button" style = "border:none;background-color:white;padding:none;" data-toggle="modal" data-target="#researchModal">
-          <img src ="surgery2.jpg" class = "img-responsive">
-          <h1 class="img-header">Researcher</h1>
-          </button>
-        </div>
-        <div class = "col-xs-6 col-lg-4" id = "spark">
+        <div class = "col-xs-6 col-md-6 col-lg-6" id = "projects">
           <button type = "button" style = "border:none;background-color:white;padding:none;" data-toggle="modal" data-target="#sparkModal">
           <img src = "spark.jpg" class = "img-responsive">
-          <h1 class="img-header">Teacher</h1>
+          <h1 class="img-header">Projects</h1>
           </button>
         </div>
       </div>
       <div class = "row">
-       <div class = "col-xs-6 col-lg-4" id = "relay">
+       <div class = "col-xs-6 col-md-6 col-lg-6" id = "relay">
          <button type = "button" style = "border:none;background-color:white;padding:none;" data-toggle="modal" data-target="#relayModal">
           <img src = "relay.jpg" class = "img-responsive">
-          <h1 class="img-header">Volunteer</h1>
+          <h1 class="img-header">Experience</h1>
           </button>
         </div>
-        <div class = "col-xs-6 col-lg-4" id = "compsci">
+        <div class = "col-xs-6 col-md-6 col-lg-6" id = "compsci">
           <button type = "button" style = "border:none;background-color:white;padding:none;" data-toggle="modal" data-target="#compsciModal">
           <img src = "compsci.png" class = "img-responsive">
-          <h1 class="img-header">Coder</h1>
+          <h1 class="img-header">Photography</h1>
           </button>
         </div>
-        <div class = "col-xs-6 col-lg-4" id = "photography">
-          <button type = "button" style = "border:none;background-color:white;padding:none;" data-toggle="modal" data-target="#photographyModal">
-          <img src = "mission.jpg" class = "img-responsive">
-          <h1 class="img-header">Photographer</h1>
-          </button>
       </div>
       </div>
     </div>
@@ -194,81 +175,58 @@
         </div>
         </div>
   
-  <div class="modal fade" id = "studentModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal fade" id = "educationModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
     <div class = "modal-dialog" role="document">
       <div class = "modal-content">
         <div class = "modal-header">
           <button type = "button" class = "close" data-dismiss = "modal" aria-hidden="true">&times;</button>
         </div>
         <div class = "modal-body">
-          <p>I am currently a senior at the Bergen County Academies (BCA) in Hackensack, NJ.</p>
-          <p>I will be studying Computer Science and Business at Northeastern University this upcoming fall.</p>
+          <p> I graduated from the Bergen County Academies in 2016.</p>
+          <ul> <p> Relevant Courses </p>
+              <li> AP Calculus AB </li>
+              <li> Intermediate JAVA </li>
+              <li> Linear Algebra and Differential Equations </li> </ul>
+          <p>I am currently studying computer science as a freshman at Northeastern University in Boston, MA.</p>
+          <ul> <p> Relevant Courses </p>
+              <li> Fundamentals of Computer Science I </li>
+              <li> Discrete Structures </li>
+              <li> Calculus I </li>
+            <li> Business Statistics </li> </ul>
         </div>
       </div>
     </div>
   </div>
   
-  <div class="modal fade" id = "researchModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal fade" id = "experienceModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
     <div class = "modal-dialog" role="document">
       <div class = "modal-content">
         <div class = "modal-header">
           <button type = "button" class = "close" data-dismiss = "modal" aria-hidden="true">&times;</button>
         </div>
         <div class = "modal-body">
-          <p>At my high school's laboratory, I have researched the importance of the BARD1 gene in UV-induced breast cancer (MCF7) cells.
-          <br/>I also did a small project on the effect of blk black water on mung bean growth.</p>
+          <h1>Sociology and Environmental Research Assistant</h1>
+          <p> Assist the research team in monitoring hydrogen sulfide gas in global communities 
+            <br> Analyzed and prepared for the collection of data </p>
+          <h2>Pulsera Project Student Ambassador<h2>
+            <p>Traveled to Nicaragua with a team of 20 to investigate local companies to invest Pulsera
+              Project funding into</p>
         </div>
       </div>
     </div>
   </div>
   
-  <div class="modal fade" id = "compsciModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal fade" id = "projectsModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
     <div class = "modal-dialog" role="document">
       <div class = "modal-content">
         <div class = "modal-header">
           <button type = "button" class = "close" data-dismiss = "modal" aria-hidden="true">&times;</button>
         </div>
         <div class = "modal-body">
-          <h1>hackBCA</h1>
-          <p>At hackBCA (a hackathon at my high school), I worked on ongoing project to design a fashion search engine which finds the best deals 
-          for the exact clothing item the customer inputs (i.e. size, color, material) while learning the
-          basics of SQL.</p>
-          <h1>picoCTF Team Participant</h1>
-          <p>I participated in the annual picoCTF competition in which I solved various coding challenges in various programming languages
-          and collaborated with teammates in areas of cryptography, cybersecurity, and forensics.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-  
-  <div class="modal fade" id = "sparkModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-    <div class = "modal-dialog" role="document">
-      <div class = "modal-content">
-        <div class = "modal-header">
-          <button type = "button" class = "close" data-dismiss = "modal" aria-hidden="true">&times;</button>
-        </div>
-        <div class = "modal-body">
-          <h1>Wave Week</h1>
-          <p>At <a href="https:www.sparkthewave.org/wave-week/">Wave Week</a>, I teach teens about community service at a week long summer camp at Georgetown University.</p>
-          <h1>Swim Instructor</h1>
-          <p>I also teach kids ages 4-16 how to swim at the Clifton Boys & Girls Club.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-
-<div class="modal fade" id = "relayModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-    <div class = "modal-dialog" role="document">
-      <div class = "modal-content">
-        <div class = "modal-header">
-          <button type = "button" class = "close" data-dismiss = "modal" aria-hidden="true">&times;</button>
-        </div>
-        <div class = "modal-body">
-          <h1>Relay for Life</h1></h1>
-          <p>Every year, I participate in an all-night walk-a-thon to raise money for research research with the American Cancer Society.
-          <br/> As a committee member, I have planned event entertainment, recruited participants and survivors, and have raised over $400 for the organization.</p>
-          <h1>Other Volunteering</h1>
-          <p>I also volunteer at Valley Hospital in Ridgewood, NJ.</p>
+          <h1>Weather Search</h1>
+          <p>Built a web app that uses the OpenWeatherMap API to look up current weather at a HubSpot Workshop</p>
+          <h1>News Map</h1>
+          <p>Built a web app that animates current world news on a world map as gifs</p>
         </div>
       </div>
     </div>
