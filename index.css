@@ -18,7 +18,11 @@ body {
 .nav-links a {
   font-family: 'Arapey', serif;
   font-size: 22px;
-  color: black;
+  color: white;
+}
+
+span.highlight {
+    background-color: #003191;
 }
 
 p {
