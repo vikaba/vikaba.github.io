@@ -16,21 +16,8 @@ body {
 }
 
 .nav-links a {
-  font-family: 'Arapey', serif;
   font-size: 22px;
-  color: white;
-}
-
-span.highlight {
-    background-color: #003191;
-}
-
-p {
-  font-family: 'Arapey', serif;
-}
-
-h {
-  font-family: 'Arapey', serif;
+  color: black;
 }
   
 .container-fluid {
