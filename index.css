@@ -1,9 +1,9 @@
 body {
-  background-color: #E8F8FE;
+  background-color: white;
 }
 
 .navbar {
-  background-color: #E8F8FE;
+  background-color: white;
   height: 70px;
   text-align: right;
 }
@@ -16,17 +16,17 @@ body {
 }
 
 .nav-links a {
-  font-family: 'Karla', sans-serif;
+  font-family: 'Arapey', serif;
   font-size: 22px;
   color: black;
 }
 
 p {
-  font-family: 'Karla', sans-serif;
+  font-family: 'Arapey', serif;
 }
 
 h {
-  font-family: 'Karla', sans-serif;
+  font-family: 'Arapey', serif;
 }
   
 .container-fluid {
@@ -43,7 +43,7 @@ h {
 }
 
 .footer a {
-  font-family: 'Karla', sans-serif;
+  font-family: 'Arapey', serif;
   font-size: 22px;
   color: black;
 }
