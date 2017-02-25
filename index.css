@@ -21,10 +21,14 @@ body {
   color: black;
 }
 
-#intro {
-  padding-left: 20px;
+p {
+  font-family: 'Karla', sans-serif;
 }
 
+h {
+  font-family: 'Karla', sans-serif;
+}
+  
 .container-fluid {
   padding-right: 0px;
   padding-left: 0px;
