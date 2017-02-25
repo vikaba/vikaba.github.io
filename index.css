@@ -29,3 +29,9 @@
   margin-top: 40px;
   border-top: 1px solid #eee;
 }
+
+.footer a {
+  font-family: 'Karla', sans-serif;
+  font-size: 22px;
+  color: black;
+}
