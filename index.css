@@ -21,7 +21,7 @@ body {
 }
 
 .row {
-  padding-top: 20px;
+  padding-top: -20px;
 }
 
 .footer {
